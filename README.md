@@ -17,11 +17,11 @@ ROSAS comes packed with a rich set of features that simplify the process of SaaS
 
 ## Getting Started
 
-If you're eager to get started with ROSAS, head over to our [Get Started Guide](./get-started.md) for step-by-step instructions on how to unleash the power of this versatile platform.
+If you're eager to get started with ROSAS, head over to our [Get Started Guide](./content/en/docs/prologue/introduction.md) for step-by-step instructions on how to unleash the power of this versatile platform.
 
 ## Terminologies
 
-As you explore ROSAS and its capabilities, you may come across specific terms that are essential to understanding the platform. Refer to our [Terminologies Guide](./layouts/index.html) to familiarize yourself with key terms used throughout this documentation.
+As you explore ROSAS and its capabilities, you may come across specific terms that are essential to understanding the platform. Refer to our [Terminologies Guide](./content/en/docs/prologue/introduction.md/#Terminologies) to familiarize yourself with key terms used throughout this documentation.
 
 ## Contribution Guidelines
 
