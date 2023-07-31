@@ -1,0 +1,114 @@
+# Meta Data for SEO
+
+## Homepage
+description = "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
+title = "ROSAS"
+titleAddition = "Modern Documentation Theme"
+titleSeparator = "-"
+
+## Documentation
+# docsVersion = "0.3"
+
+## Open Graph
+domainTLD = "doks.netlify.app"
+images = ["doks.png"]
+ogLocale = "en_US"
+titleHome = "Doks Theme"
+
+## Twitter Cards
+twitterCreator = "@henkverlinde"
+twitterSite = "@getdoks"
+
+## JSON-LD
+# schemaType = "Person"
+schemaAuthor = "Henk Verlinde"
+schemaAuthorGitHub = "https://github.com/h-enk"
+schemaAuthorLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
+schemaAuthorTwitter = "https://twitter.com/henkverlinde"
+schemaGitHub = "https://github.com/h-enk/doks"
+schemaImage = "doks.png"
+schemaImageHeight = 640
+schemaImageWidth = 1280
+schemaLinkedIn = ""
+schemaLocale = "en-US"
+schemaLogo = "logo-doks.png"
+schemaLogoHeight = 512
+schemaLogoWidth = 512
+schemaName = "Doks"
+schemaSection = "blog"
+schemaTwitter = "https://twitter.com/getdoks"
+schemaType = "Organization"
+
+## Sitelinks Search Box
+siteLinksSearchBox = false
+
+## Chrome Browser
+themeColor = "#fff"
+
+# Images
+bgColor = "#fff"
+landscapePhotoWidths = [900, 800, 700, 600, 500]
+lqipWidth = "20x"
+portraitPhotoWidths = [800, 700, 600, 500]
+quality = 85
+smallLimit = "300"
+
+# Images
+imageAddClass = "img-fluid lazyload blur-up"
+imageConvertTo = "webp"
+imageImageSizes = ["480", "720", "1080", "1280", "1600", "2048"]
+imageResponsive = true
+singleSize = false
+
+### Image template
+defaultImage = "default-image.png" # put in `./assets/images/`
+fillImage = "1270x740 Center" # normalize image size
+
+# Footer
+footer = "Powered by <a class=\"text-muted\" href=\"https://www.netlify.com/\">Netlify</a>, <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a>, and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
+
+# Feed
+copyRight = "Copyright (c) 2020-2021 Henk Verlinde"
+
+# Alert
+alert = false
+alertDismissable = true
+# alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\" target=\"_blank\" rel=\"noopener\">Check out Doks v0.2</a>"
+alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\">Check out Doks v0.2</a>"
+
+# Edit Page
+# repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster
+repoHost = "GitHub"
+#repoHost = "Gitea"
+docsRepo = "https://github.com/h-enk/doks"
+docsRepoBranch = "master"
+docsRepoSubPath = ""
+editPage = false
+lastMod = false
+
+[sections]
+sectionNav = ["docs", "guides"]
+
+[options]
+bootStrapJs = true 
+breadCrumb = false 
+clipBoard = true 
+darkMode = true 
+docsVersioning = false 
+flexSearch = true 
+fullWidth = false 
+highLight = true 
+instantPage = true 
+kaTex = false 
+lazySizes = true 
+multilingualMode = false 
+navbarSticky = true 
+scrollSpy = false # experimental; needs Bootstrap >= 5.2.0-beta1
+searchSectionsIndex = [] 
+searchSectionsShow = [] 
+toTopButton = false 
+
+[menu]
+[menu.section]
+auto = true
+collapsibleSidebar = true
