@@ -10,7 +10,7 @@ menu:
   docs:
     parent: ""
     identifier: "Managing-Products-61a9c835936a92429a5d672d9a0481d2"
-weight: 5
+weight: 6
 toc: true
 ---
 
