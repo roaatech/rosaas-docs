@@ -55,6 +55,18 @@ In the "Details" tab, you will find detailed information about the selected tena
 
 - **Last Updated Date:** The most recent date when the tenant's details were modified or updated. This helps track changes and version history for the tenant's information.
 
+### Edit Tenant
+
+To update tenant details, you can utilize the "Edit Tenant" feature within the detail tab. This functionality allows you to modify specific information about the tenant and ensure accurate and up-to-date records. Here are the fields you can edit:
+
+- **Title:** Update the tenant's title to reflect any changes or relevant information.
+
+- **Unique Name:** The unique identifier for the tenant can also be changed if needed. This identifier is essential for referencing and distinguishing tenants within the system.
+
+Please ensure that the changes made are accurate and necessary, as they will directly affect the tenant's profile and interactions with your SaaS platform.
+
+After making the desired edits, click the "Update" button to save the changes. The updated information will be reflected in the tenant's details, providing you with an up-to-date and comprehensive view of your tenant management within the ROSAS platform.
+
 ### Product Tabs
 
 The other tabs on the "Tenant Details" page represent the digital products that the tenant has subscribed to. Each tab corresponds to a separate product, showcasing specific details for each subscription.
