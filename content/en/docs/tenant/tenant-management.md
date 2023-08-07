@@ -73,12 +73,20 @@ The other tabs on the "Tenant Details" page represent the digital products that 
 
 In each product tab, you will find the following information:
 
-- **Status:** This indicates the current status of the product subscription for the tenant. For example, "Deactivate request is sent," "Creating," "Created As Active," etc.
+- **Status:** Indicates the current status of the product subscription for the tenant. For example, "Deactivate request is sent," "Creating," "Created As Active," etc.
+
+- **Health Check URL:** The main URL used for health checks, which can be either the default URL or an overridden one.
 
 - **Last Updated Date:** The date when the status of the product subscription was last updated, providing insights into recent changes.
 
-### Meta Data
+- **Health Check Status:** Indicates the current health status of the product subscription for the tenant, whether it is "Healthy" or "Unhealthy."
+
+#### Meta Data
 
 The "Meta Data" section in each product tab is a placeholder and can be replaced with actual data relevant to your system. This section can be used to store additional information or metadata associated with the specific product subscription for the tenant.
+
+### History
+
+The "History" on the right side of the page displays a chronological record of events related to the tenant's product subscription. The history log helps track the lifecycle of the tenant's product subscription and provides valuable insights into the operations performed within the system. The history includes details such as who initiated the action, the action description, and the timestamp of the action.
 
 With the tenant management features, administrators can efficiently handle tenant-related operations, such as adding new tenants, viewing details of existing tenants, and managing their product subscriptions. This comprehensive control empowers platform administrators to optimize the SaaS offerings and provide a seamless experience for their tenants.
