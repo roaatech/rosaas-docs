@@ -19,16 +19,18 @@ $beige:    #fbf7f0;
 // $red:      #e55235;
 $purple:   #5d2f86;
 $brown:    #aa9c84;
+$gold:      #ffab09;
 
 $blue-300: #8ed6fb;
 $pink-100: #fcfaff;
 $pink-500: #d32e9d;
 
-$primary: $purple;
 
+$primary: #57585b;
+$hover-color:$gold;
 $color-btn-bg: $pink-500;
 $color-btn-border: darken($pink-500, 5%);
-$color-btn-text: $white;
+$color-btn-text: $gold;
 
 // Options
 //
@@ -70,7 +72,7 @@ $body-color:                $black;
 //
 // Style anchor elements.
 
-$link-color:                              $primary;
+$link-color:                             $hover-color;
 $link-decoration:                         none;
 
 // Grid containers
@@ -140,8 +142,8 @@ $navbar-padding-x:                  null;
 $navbar-nav-link-padding-x:         0.5rem;
 
 $navbar-light-color:                $black;
-$navbar-light-hover-color:          $primary;
-$navbar-light-active-color:         $primary;
+$navbar-light-hover-color:          $hover-color;
+$navbar-light-active-color:         $gold;
 
 // Cards
 
@@ -168,7 +170,7 @@ $dropdown-config: (
   layout-type: normal,
   layout-width: normal,
   layout-alignment: align,
-  background-color: $white,
+  background-color: $gold,
   border-radius: 4,
   border-width: 1,
   border-color: $gray-200,

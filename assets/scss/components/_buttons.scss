@@ -253,3 +253,8 @@ pre {
 .dropdown-menu-main .dropdown-item.active:hover {
   background-color: transparent;
 }
+body .btn-primary {
+  @include button-variant($gold, $gold);
+  color: $primary !important;
+  -webkit-text-stroke: 0.5px;
+}

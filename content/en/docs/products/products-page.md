@@ -1,5 +1,5 @@
 ---
-title: "Prodcts"
+title: "Products"
 
 description: "Products in ROSAS are digital offerings that can be easily transformed into fully functional Software as a Service (SaaS) solutions, providing businesses with a centralized platform for efficient management and optimization."
 
