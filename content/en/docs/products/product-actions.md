@@ -34,10 +34,10 @@ To add a new digital product to ROSAS and initiate its transformation into a ful
 
   - **Name:** Enter the name of your new product.
   - **Default Health Check Url:** Provide the default health check URL for the product.
-  - **Creation Url:** Enter the API endpoint responsible for creating the product.
-  - **Activation Url:** Specify the API endpoint for activating the product.
-  - **Deactivation Url:** Provide the API endpoint for deactivating the product.
-  - **Deletion Url:** Specify the API endpoint for deleting the product.
+  - **Creation Url:** Enter the API endpoint responsible for creating the product's Tenants.
+  - **Activation Url:** Specify the API endpoint for activating the product's Tenants.
+  - **Deactivation Url:** Provide the API endpoint for deactivating the product's Tenants.
+  - **Deletion Url:** Specify the API endpoint for deleting the product's Tenants.
 
 - **Submit the Product Details:** Once you have filled in all the necessary details, click the "Submit" button to create the new product. Upon successful submission, you will receive a confirmation message, and the newly added product will be listed among the existing products on the Products page.
 
