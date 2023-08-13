@@ -8,13 +8,13 @@ draft: FALSE
 images: []
 menu:
   docs:
-    parent: ""
+    parent: "Tenant"
     identifier: "tenant-management-1c741b6609571b96fd2b736577db53a7"
 weight: 7
 toc: true
 ---
 
-## Tenant and Tenant management
+## Tenant and Tenant Management
 
 In the context of the ROSAS platform, a tenant refers to a distinct client or user who has access to your Software as a Service (SaaS) offerings. Managing tenants effectively is essential for optimizing their experience and ensuring seamless interactions within your platform.
 
@@ -24,13 +24,9 @@ To add a new tenant, follow these steps:
 
 1. In the left-hand navigation menu, click on the "Add Tenant" button.
 2. A form will appear with the following fields:
-
    - **Title:** Enter the title or name of the new tenant. This can be a descriptive name that helps identify the tenant.
-
    - **Unique Name \*:** Provide a unique identifier for the tenant. This identifier is crucial for backend systems and databases to distinguish between different tenants. It should be a string without spaces or special characters.
-
    - **Product \*:** Select one of the available digital products that the tenant will have access to. This product selection determines the features and services available to the tenant.
-
 3. After filling in the required information, click the "Submit" button to add the new tenant to the ROSAS platform. If you decide not to proceed with adding the tenant, you can click the "Close" button to cancel the operation.
 
 ## Tenant List
@@ -39,54 +35,14 @@ The "Tenant List" in the left-hand navigation menu provides a comprehensive view
 
 ## Tenant Details Page
 
-When you select a specific tenant from the "Tenant List," you will be taken to the "Tenant Details" page, which consists of the following sub-tabs:
+When you select a specific tenant from the "Tenant List," you will be taken to the "Tenant Details" page. This page consists of the following sub-tabs:
 
 ### Details Tab
 
-In the "Details" tab, you will find detailed information about the selected tenant:
-
-- **Title:** The title or name of the tenant, which serves as a recognizable identifier.
-
-- **Unique Name:** The unique identifier assigned to the tenant during the creation process.
-
-- **Products:** This section lists the digital products that the tenant has subscribed to. For example, "Product A," "Product B," etc. These products determine the services and features accessible to the tenant.
-
-- **Created Date:** The date when the tenant was initially added to the ROSAS platform, providing insights into the tenant's inception.
-
-- **Last Updated Date:** The most recent date when the tenant's details were modified or updated. This helps track changes and version history for the tenant's information.
-
-### Edit Tenant
-
-To update tenant details, you can utilize the "Edit Tenant" feature within the detail tab. This functionality allows you to modify specific information about the tenant and ensure accurate and up-to-date records. Here are the fields you can edit:
-
-- **Title:** Update the tenant's title to reflect any changes or relevant information.
-
-- **Unique Name:** The unique identifier for the tenant can also be changed if needed. This identifier is essential for referencing and distinguishing tenants within the system.
-
-Please ensure that the changes made are accurate and necessary, as they will directly affect the tenant's profile and interactions with your SaaS platform.
-
-After making the desired edits, click the "Update" button to save the changes. The updated information will be reflected in the tenant's details, providing you with an up-to-date and comprehensive view of your tenant management within the ROSAS platform.
+In the "Details" tab (for more details, see [Tenant Details Tab](./Tenant%20Details%20Tab.md)), you will find detailed information about the selected tenant, including their title, unique identifier, subscribed products, creation and update dates, and more.
 
 ### Product Tabs
 
-The other tabs on the "Tenant Details" page represent the digital products that the tenant has subscribed to. Each tab corresponds to a separate product, showcasing specific details for each subscription.
-
-In each product tab, you will find the following information:
-
-- **Status:** Indicates the current status of the product subscription for the tenant. For example, "Deactivate request is sent," "Creating," "Created As Active," etc.
-
-- **Health Check URL:** The main URL used for health checks, which can be either the default URL or an overridden one.
-
-- **Last Updated Date:** The date when the status of the product subscription was last updated, providing insights into recent changes.
-
-- **Health Check Status:** Indicates the current health status of the product subscription for the tenant, whether it is "Healthy" or "Unhealthy."
-
-#### Meta Data
-
-The "Meta Data" section in each product tab is a placeholder and can be replaced with actual data relevant to your system. This section can be used to store additional information or metadata associated with the specific product subscription for the tenant.
-
-### History
-
-The "History" on the right side of the page displays a chronological record of events related to the tenant's product subscription. The history log helps track the lifecycle of the tenant's product subscription and provides valuable insights into the operations performed within the system. The history includes details such as who initiated the action, the action description, and the timestamp of the action.
+The "Product Tabs" (for more details, see [Tenant's Product Tabs](./Tenant's%20Product%20Tabs.md)) provide insights into the digital products that a tenant has subscribed to, offering information about subscription status, health checks, and subscription history.
 
 With the tenant management features, administrators can efficiently handle tenant-related operations, such as adding new tenants, viewing details of existing tenants, and managing their product subscriptions. This comprehensive control empowers platform administrators to optimize the SaaS offerings and provide a seamless experience for their tenants.
