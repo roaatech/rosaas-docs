@@ -40,11 +40,13 @@ The most recent date when the tenant's details were modified or updated. This in
 
 ## Edit Tenant
 
-The "Edit Tenant" feature within the "Tenant Details Tab" empowers you to modify specific tenant information to ensure accurate and up-to-date records. You can update the tenant's title and unique identifier, essential for referencing and distinguishing tenants within the system.
+The "Edit Tenant" functionality, accessible from the "Tenant Details Tab," empowers you to modify specific tenant information to maintain accurate and up-to-date records. This feature allows you to update the tenant's title, which serves as a recognizable identifier within the system.
+
+It's important to note that while you can update the tenant's title, the unique identifier assigned to the tenant during the creation process cannot be changed. This identifier is essential for referencing and distinguishing tenants within the system.
 
 Please ensure that any changes made are accurate and necessary, as they will directly impact the tenant's profile and interactions with your SaaS platform.
 
-After making desired edits, save changes by clicking the "Update" button. Updated information will be reflected, providing an up-to-date and comprehensive view of your tenant management in the ROSAS platform.
+After making the desired edits, save the changes by clicking the "Update" button. The updated information will be reflected, providing you with an up-to-date and comprehensive view of your tenant management within the ROSAS platform.
 
 ## Deactivate and Delete Buttons
 
