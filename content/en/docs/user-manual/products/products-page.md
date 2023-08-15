@@ -1,9 +1,9 @@
 ---
 title: "Products"
 
-description: "Products in ROSAS are digital offerings that can be easily transformed into fully functional Software as a Service (SaaS) solutions, providing businesses with a centralized platform for efficient management and optimization."
+description: "Products in ROSAS are digital offerings that can be easily transformed into fully functional Software as a Service (SaaS) solutions, providing businesses with a centralized workspace for efficient management and optimization."
 
-lead: "Products in ROSAS are digital offerings that can be easily transformed into fully functional Software as a Service (SaaS) solutions, providing businesses with a centralized platform for efficient management and optimization."
+lead: "Products in ROSAS are digital assets that can be seamlessly transformed into fully functional Software as a Service (SaaS) solutions, providing businesses with a centralized workspace for efficient management and optimization."
 date: 2023-07-25T09:14:16+03:00
 lastmod: 2023-07-25T09:14:16+03:00
 draft: false
@@ -11,13 +11,13 @@ images: []
 menu:
   docs:
     parent: "products"
-weight: 4
+weight: 20
 toc: true
 ---
 
 ## Products Page
 
-The Products page in ROSAS serves as a centralized platform for managing all your digital products and their SaaSification process. From this page, you can create new products, view existing ones, and access comprehensive details about each product’s features and subscription plans. Here’s a step-by-step guide on how to navigate and utilize the Products page effectively:
+The Products page in ROSAS serves as a centralized workspace for managing all your digital products and their SaaSification process. From this page, you can create new products, view existing ones, and access comprehensive details about each product’s features and subscription plans. Here’s a step-by-step guide on how to navigate and utilize the Products page effectively:
 
 ### Accessing the Products Page
 
@@ -35,4 +35,4 @@ Welcome to the "Effective Product Control" section! Here, you’ll find powerful
 
 2. [Product Details Exploration](../product-details-exploration): Gain a comprehensive understanding of your digital products within the ROSAS platform. Uncover valuable insights about each product, its configurations, and capabilities as a Software as a Service (SaaS) solution. This documentation empowers you to make informed decisions for efficient product management, SaaSification, and subscription handling.
 
-By effectively utilizing these functionalities, you can efficiently manage your digital products, access detailed information about each product, and optimize your SaaS offerings. For more detailed instructions on each feature, refer to the respective documentation pages: [Product Details Exploration](../product-details-exploration) and [Product Actions](../product-actions). These resources will empower you to make the most of ROSAS and streamline your SaaSification process.
+By effectively utilizing these functionalities, you can efficiently manage your digital products, access detailed information about each product, and optimize your SaaS offerings. For more detailed instructions on each feature, refer to the respective documentation pages: [Product Details Exploration](../product-details-exploration) and [Product Actions](../product-actions). These resources will enable you to make the most of ROSAS and streamline your SaaSification process.

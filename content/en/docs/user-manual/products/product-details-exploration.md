@@ -8,9 +8,9 @@ draft: false
 images: []
 menu:
   docs:
-    parent: ""
+    parent: "Products"
     identifier: "Managing-Products-61a9c835936a92429a5d672d9a0481d2"
-weight: 6
+weight: 22
 toc: true
 ---
 
@@ -40,17 +40,17 @@ In the Details tab, you can access essential information about the product, incl
 
 - **Last Updated Date:** This indicates the most recent date when the product's details were modified or updated. It helps track changes and version history for the product.
 
-- **Default Health Check URL:** The URL associated with the default health check of the product. It is used to monitor the product's health and availability.
+- **Default Health Check URL:** Provide the default health check URL for the product’s Tenants.
 
-- **Health Status Change URL:** The URL to trigger a health status change for the product. It allows monitoring systems to update the product's health status based on real-time data.
+- **Health Status Change URL:** to inform external system that the specific tenant is unavailable.
 
-- **Creation URL:** This URL serves as the API endpoint responsible for creating instances of the product when a new tenant (user or subscriber) is added.
+- **Creation URL:** Specify the API endpoint responsible for creating the product’s Tenants.
 
-- **Activation URL:** The API endpoint used to activate the product for a tenant (user or subscriber), granting access to the product's features.
+- **Activation URL:** Specify the API endpoint for activating the product’s Tenants.
 
-- **Deactivation URL:** The API endpoint for deactivating the product for a tenant (user or subscriber), restricting their access to the product.
+- **Deactivation URL:** Provide the API endpoint for deactivating the product’s Tenants.
 
-- **Deletion URL:** The API endpoint to delete the product for a tenant (user or subscriber). This action will remove the product from the tenant's workspace.
+- **Deletion URL:** The API endpoint to delete the product's tenant .
 
 Understanding this information allows you to have insights into the product's configuration and its capabilities as a Software as a Service (SaaS) solution. You can use these details to make informed decisions about managing and optimizing your SaaS offerings.
 

@@ -10,7 +10,7 @@ menu:
   docs:
     parent: "Tenant"
     identifier: "tenant-management-1c741b6609571b96fd2b736577db53a7"
-weight: 7
+weight: 30
 toc: true
 ---
 
@@ -25,7 +25,7 @@ To add a new tenant, follow these steps:
 1. In the left-hand navigation menu, click on the "Add Tenant" button.
 2. A form will appear with the following fields:
    - **Title:** Enter the title or name of the new tenant. This can be a descriptive name that helps identify the tenant.
-   - **Unique Name \*:** Provide a unique identifier for the tenant. This identifier is crucial for backend systems and databases to distinguish between different tenants. It should be a string without spaces or special characters.
+   - **Unique Name \*:**Provide a unique identifier for the tenant. This identifier is crucial for backend systems and databases to distinguish between different tenants. It should be a string without spaces or special characters, and it can accept hyphens (-) and underscores (\_). This unique name serves as an unambiguous reference for the tenant and helps maintain separation and organization within the system.
    - **Product \*:** Select one of the available digital products that the tenant will have access to. This product selection determines the features and services available to the tenant.
 3. After filling in the required information, click the "Submit" button to add the new tenant to the ROSAS platform. If you decide not to proceed with adding the tenant, you can click the "Close" button to cancel the operation.
 

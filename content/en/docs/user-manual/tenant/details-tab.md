@@ -10,7 +10,7 @@ menu:
   docs:
     parent: "Tenant"
     identifier: "details-tab-34ede2218c12d6431975f7babe60ae76"
-weight: 8
+weight: 31
 toc: true
 ---
 

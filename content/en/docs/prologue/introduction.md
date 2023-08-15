@@ -59,6 +59,10 @@ A client's admin responsible for managing the client's workspace within ROSAS.
 
 An admin with additional access to administrative dashboards and tools within ROSAS.
 
+### Subscriptions
+
+"Subscriptions" in ROSAS refer to the authorized access and usage of specific products or services by customers, enabling them to utilize the offerings through a recurring payment model.
+
 <!-- {{< details "Product" >}}
 A digital product that ROSAS helps transform into a SaaS.
 {{< /details >}}
