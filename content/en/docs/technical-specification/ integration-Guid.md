@@ -17,7 +17,7 @@ toc: true
 
 ## Authentication
 
-In this section, you will learn how to authenticate your External System 2 with ROSAS, ensuring secure access to privileged endpoints.
+In this section, you will learn how to authenticate your External System with ROSAS, ensuring secure access to privileged endpoints.
 
 ### POST: Generate Client Access Token for External System
 
@@ -73,7 +73,7 @@ This endpoint retrieves the metadata associated with a tenant.
 
 ## Ending
 
-Congratulations! You've reached the end of the Integration Guide for connecting your External System 2 with ROSAS. By following the steps outlined in this guide, you've successfully integrated your product's external system with ROSAS, unlocking a range of powerful features and capabilities.
+Congratulations! You've reached the end of the Integration Guide for connecting your External System with ROSAS. By following the steps outlined in this guide, you've successfully integrated your product's external system with ROSAS, unlocking a range of powerful features and capabilities.
 
 **Next Steps:**
 
