@@ -1,7 +1,7 @@
 ---
 title: "Tenant Details Tab"
-description: "The 'Tenant Details Tab' provides an in-depth overview of specific tenant information and interactions within ROSAS. This tab offers comprehensive insights into key tenant details, including title, unique identifier, subscribed products, creation and modification dates."
-lead: "The 'Tenant Details Tab' provides an in-depth overview of specific tenant information and interactions within ROSAS. This tab offers comprehensive insights into key tenant details, including title, unique identifier, subscribed products, creation and modification dates."
+description: "The 'Tenant Details Tab' provides an in-depth overview of specific tenant information and interactions within RoSaaS. This tab offers comprehensive insights into key tenant details, including title, unique identifier, subscribed products, creation and modification dates."
+lead: "The 'Tenant Details Tab' provides an in-depth overview of specific tenant information and interactions within RoSaaS. This tab offers comprehensive insights into key tenant details, including title, unique identifier, subscribed products, creation and modification dates."
 date: 2023-08-10T08:49:10+03:00
 lastmod: 2023-08-10T08:49:10+03:00
 draft: false
@@ -32,7 +32,7 @@ This section lists the digital products that the tenant has subscribed to. The s
 
 ### Created Date
 
-The date when the tenant was initially added to the ROSAS platform. This date provides valuable insights into the tenant's inception and history within the platform.
+The date when the tenant was initially added to the RoSaaS platform. This date provides valuable insights into the tenant's inception and history within the platform.
 
 ### Last Updated Date
 
@@ -46,7 +46,7 @@ It's important to note that while you can update the tenant's title, the unique 
 
 Please ensure that any changes made are accurate and necessary, as they will directly impact the tenant's profile and interactions with your SaaS platform.
 
-After making the desired edits, save the changes by clicking the "Update" button. The updated information will be reflected, providing you with an up-to-date and comprehensive view of your tenant management within the ROSAS platform.
+After making the desired edits, save the changes by clicking the "Update" button. The updated information will be reflected, providing you with an up-to-date and comprehensive view of your tenant management within the RoSaaS platform.
 
 ## Deactivate and Delete Buttons
 
@@ -60,4 +60,4 @@ The "Deactivate" button allows you to temporarily deactivate resources for all a
 
 The "Delete" button enables you to permanently remove all resources associated with the tenant's active products. Exercise caution when using this action, as it irreversibly deletes the tenant's data and related resources. This option is suitable for cases where a tenant's products need to be entirely removed from the system.
 
-It's important to note that these actions impact all products that are currently active for the tenant. The "Tenant Details Tab" serves as a central hub for tenant management, enhancing the ROSAS user experience by streamlining operations and interactions.
+It's important to note that these actions impact all products that are currently active for the tenant. The "Tenant Details Tab" serves as a central hub for tenant management, enhancing the RoSaaS user experience by streamlining operations and interactions.

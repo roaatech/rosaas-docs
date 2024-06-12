@@ -1,7 +1,7 @@
 ---
 title: "Product Details Exploration"
-description: "Welcome to the Product Details Exploration section! Here, you will gain a comprehensive understanding of your digital products within the ROSAS platform. Uncover valuable insights about each product, its configurations, and capabilities as a Software as a Service (SaaS) solution. This documentation empowers you to make informed decisions for efficient product management, SaaSification, and subscription handling."
-lead: "Welcome to the Product Details Exploration section! Here, you will gain a comprehensive understanding of your digital products within the ROSAS platform. Uncover valuable insights about each product, its configurations, and capabilities as a Software as a Service (SaaS) solution. This documentation empowers you to make informed decisions for efficient product management, SaaSification, and subscription handling."
+description: "Welcome to the Product Details Exploration section! Here, you will gain a comprehensive understanding of your digital products within the RoSaaS platform. Uncover valuable insights about each product, its configurations, and capabilities as a Software as a Service (SaaS) solution. This documentation empowers you to make informed decisions for efficient product management, SaaSification, and subscription handling."
+lead: "Welcome to the Product Details Exploration section! Here, you will gain a comprehensive understanding of your digital products within the RoSaaS platform. Uncover valuable insights about each product, its configurations, and capabilities as a Software as a Service (SaaS) solution. This documentation empowers you to make informed decisions for efficient product management, SaaSification, and subscription handling."
 date: 2023-07-25T13:36:17+03:00
 lastmod: 2023-07-25T13:36:17+03:00
 draft: false
@@ -16,7 +16,7 @@ toc: true
 
 ## Access the "Product" Page
 
-To get started, log in to your ROSAS account using your credentials. After successful login, you will land on the main dashboard.
+To get started, log in to your RoSaaS account using your credentials. After successful login, you will land on the main dashboard.
 
 From the left-hand navigation menu, locate and click on "Products." This will take you to the Products page, where you can find the list of your digital products.
 
@@ -32,11 +32,11 @@ Click the "View Details" button (represented by "..." in the "Actions" column) f
 
 In the Details tab, you can access essential information about the product, including:
 
-- **Name:** This is the name of the digital product you have created in ROSAS. It serves as an identifier for the product within the platform.
+- **Name:** This is the name of the digital product you have created in RoSaaS. It serves as an identifier for the product within the platform.
 
-- **Client:** The client refers to the owner of the product. In ROSAS, a client has a dedicated workspace and is responsible for managing their specific product offerings.
+- **Client:** The client refers to the owner of the product. In RoSaaS, a client has a dedicated workspace and is responsible for managing their specific product offerings.
 
-- **Created Date:** The date when the product was initially created in ROSAS. It provides information about the product's inception on the platform.
+- **Created Date:** The date when the product was initially created in RoSaaS. It provides information about the product's inception on the platform.
 
 - **Last Updated Date:** This indicates the most recent date when the product's details were modified or updated. It helps track changes and version history for the product.
 
@@ -80,6 +80,6 @@ In the Subscriptions tab, you can access a list of all subscriptions associated 
 
 - **Created Date:** This field indicates the date and time when each subscription was created. It helps track the subscription's inception and understand the timeline of subscription management.
 
-By effectively utilizing these actions and exploring the product details, you can efficiently manage your digital products within ROSAS, access comprehensive insights, and handle subscriptions seamlessly. This level of control empowers you to optimize the performance and subscription offerings of your SaaS products.
+By effectively utilizing these actions and exploring the product details, you can efficiently manage your digital products within RoSaaS, access comprehensive insights, and handle subscriptions seamlessly. This level of control empowers you to optimize the performance and subscription offerings of your SaaS products.
 
-Congratulations! You now have a clear understanding of how to explore and manage your product details and subscriptions within ROSAS.
+Congratulations! You now have a clear understanding of how to explore and manage your product details and subscriptions within RoSaaS.

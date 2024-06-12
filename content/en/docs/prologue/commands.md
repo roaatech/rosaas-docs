@@ -9,7 +9,7 @@ images: []
 menu:
   docs:
     parent: "prologue"
-weight: 2
+weight: 4
 toc: true
 ---
 
@@ -128,11 +128,11 @@ Copy code
 {
   "data": {
     "info": {
-      "rosasClient": {
+      "RoSaaSClient": {
         "name": "roaa",
         "title": "Roaa Tech"
       },
-      "rosasProduct": {
+      "RoSaaSProduct": {
         "name": "osos",
         "title": "OSOS System"
       }

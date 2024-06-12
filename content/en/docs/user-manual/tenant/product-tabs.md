@@ -1,6 +1,6 @@
 ---
 title: "Tenant's Product Tabs"
-lead: "The Product Tabs on the Tenant Details page provide insights into the digital products that a tenant has subscribed to within ROSAS. Each tab offers specific information about the product subscription, including status, health check details, and subscription history."
+lead: "The Product Tabs on the Tenant Details page provide insights into the digital products that a tenant has subscribed to within RoSaaS. Each tab offers specific information about the product subscription, including status, health check details, and subscription history."
 date: 2023-08-10T10:00:00+03:00
 lastmod: 2023-08-10T10:00:00+03:00
 draft: false
@@ -15,7 +15,7 @@ toc: true
 
 ## Tenant's Product Tab
 
-The "Tenant's Product Tab" provides administrators with an in-depth understanding of the digital products that a tenant has subscribed to within ROSAS. This tab offers specific insights into the product subscription, including its current status, health check details, and subscription history.
+The "Tenant's Product Tab" provides administrators with an in-depth understanding of the digital products that a tenant has subscribed to within RoSaaS. This tab offers specific insights into the product subscription, including its current status, health check details, and subscription history.
 
 ### Status
 

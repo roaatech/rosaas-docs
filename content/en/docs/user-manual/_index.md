@@ -1,5 +1,5 @@
 ---
-title: "User Manual"
+title: "Admin Panel"
 description: ""
 lead: ""
 date: 2023-08-14T11:24:10+03:00
@@ -10,6 +10,6 @@ menu:
   docs:
     parent: ""
     identifier: "user-manual-a5d7e5753134e96e50ced9de709d8be5"
-weight: 200
+weight: 3
 toc: true
 ---
