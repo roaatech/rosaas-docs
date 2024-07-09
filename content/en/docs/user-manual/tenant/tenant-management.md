@@ -10,7 +10,7 @@ menu:
   docs:
     parent: "Tenant"
     identifier: "tenant-management-1c741b6609571b96fd2b736577db53a7"
-weight: 30
+weight: 40
 toc: true
 ---
 

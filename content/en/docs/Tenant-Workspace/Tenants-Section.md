@@ -8,8 +8,8 @@ draft: false
 images: []
 menu:
   docs:
-    parent: "tenant-dashboard"
-weight: 2
+    parent: "Tenant-Workspace"
+weight: 22
 toc: true
 ---
 

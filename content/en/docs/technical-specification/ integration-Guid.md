@@ -11,7 +11,7 @@ menu:
   docs:
     parent: "technical-specification"
     identifier: " integration-Guid-a676682e606aa6c231a4a878310c0610"
-weight: 40
+weight: 50
 toc: true
 ---
 

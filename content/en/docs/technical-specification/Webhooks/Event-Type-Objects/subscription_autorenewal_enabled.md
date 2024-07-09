@@ -11,7 +11,7 @@ menu:
   docs:
     parent: "Event-Type-Objects"
     identifier: " integration-Guid-a676682e606aa6c231a4a878310c0611"
-weight: 30005
+weight: 65
 toc: true
 ---
 

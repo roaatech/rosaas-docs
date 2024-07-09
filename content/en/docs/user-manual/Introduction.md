@@ -9,7 +9,7 @@ images: []
 menu:
   docs:
     parent: "Admin Panel"
-weight: 1
+weight: 31
 toc: true
 ---
 

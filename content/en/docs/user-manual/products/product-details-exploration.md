@@ -1,85 +1,106 @@
 ---
 title: "Product Details Exploration"
-description: "Welcome to the Product Details Exploration section! Here, you will gain a comprehensive understanding of your digital products within the RoSaaS platform. Uncover valuable insights about each product, its configurations, and capabilities as a Software as a Service (SaaS) solution. This documentation empowers you to make informed decisions for efficient product management, SaaSification, and subscription handling."
-lead: "Welcome to the Product Details Exploration section! Here, you will gain a comprehensive understanding of your digital products within the RoSaaS platform. Uncover valuable insights about each product, its configurations, and capabilities as a Software as a Service (SaaS) solution. This documentation empowers you to make informed decisions for efficient product management, SaaSification, and subscription handling."
-date: 2023-07-25T13:36:17+03:00
-lastmod: 2023-07-25T13:36:17+03:00
+
+description: "Explore comprehensive details about each product in RoSaaS, including configurations, features, and subscription plans for efficient product management and SaaSification."
+
+lead: "Discover detailed insights into your digital products within the RoSaaS platform, empowering you to make informed decisions for product management and SaaS optimization."
+date: 2023-07-25T09:14:16+03:00
+lastmod: 2023-07-25T09:14:16+03:00
 draft: false
 images: []
 menu:
   docs:
-    parent: "Products"
-    identifier: "Managing-Products-61a9c835936a92429a5d672d9a0481d2"
-weight: 22
+    parent: "products"
+weight: 32
 toc: true
 ---
 
-## Access the "Product" Page
+## Product Details Exploration
 
-To get started, log in to your RoSaaS account using your credentials. After successful login, you will land on the main dashboard.
+The Product Details Exploration section in RoSaaS allows you to delve into the specifics of each digital product, providing a centralized location for managing and optimizing your SaaS offerings. This section covers various aspects of product details, from general information to advanced configurations, ensuring you have a comprehensive understanding of your products. Here’s a step-by-step guide to navigating and utilizing the Product Details Exploration effectively:
 
-From the left-hand navigation menu, locate and click on "Products." This will take you to the Products page, where you can find the list of your digital products.
+### Accessing Product Details
 
-## Product List
+1. **Log In:** Start by logging in to your RoSaaS account using your credentials.
 
-The Product List provides a centralized and organized view of all your digital products and their associated details. From this list, you can perform various management actions to effectively handle your SaaS offerings.
+2. **Main Dashboard:** After a successful login, you will land on the main dashboard.
 
-## View Details
+3. **Navigate to “Products”:** In the left-hand navigation menu, locate and click on “Products.” This action will take you to the Products page.
 
-Click the "View Details" button (represented by "..." in the "Actions" column) for a specific product to access comprehensive insights into the product's attributes. This view is divided into two tabs:
+4. **Select a Product:** From the list of products, select the one you want to explore. Click on the product name to view its detailed information.
 
-### Details Tab
+### Product Details Tabs
 
-In the Details tab, you can access essential information about the product, including:
+Once you have selected a product, you will see various tabs that categorize the product details for easy navigation:
 
-- **Name:** This is the name of the digital product you have created in RoSaaS. It serves as an identifier for the product within the platform.
+1. **Details:** Provides the basic information about the product, including Display Name, System Name, Client, Description, and API endpoints for health checks and subscription management.
 
-- **Client:** The client refers to the owner of the product. In RoSaaS, a client has a dedicated workspace and is responsible for managing their specific product offerings.
+2. **Trial Period:** Configures the trial periods available for the product, allowing potential customers to experience the product before committing to a subscription.
 
-- **Created Date:** The date when the product was initially created in RoSaaS. It provides information about the product's inception on the platform.
+3. **Webhook:** Manages webhook configurations for real-time communication between RoSaaS and external systems.
 
-- **Last Updated Date:** This indicates the most recent date when the product's details were modified or updated. It helps track changes and version history for the product.
+4. **Client Credentials:** Handles the client credentials necessary for secure API access and authentication.
 
-- **Default Health Check URL:** Provide the default health check URL for the product’s Tenants.
+5. **User Management:** Oversees user access and roles within the product, ensuring appropriate permissions and security.
 
-- **Health Status Change URL:** to inform external system that the specific tenant is unavailable.
+6. **Custom Specification:** Allows customization of specific product parameters to meet unique business requirements.
 
-- **Creation URL:** Specify the API endpoint responsible for creating the product’s Tenants.
+7. **Plans:** Defines the different subscription plans available for the product, detailing the features and pricing associated with each plan.
 
-- **Activation URL:** Specify the API endpoint for activating the product’s Tenants.
+8. **Features:** Lists the features included in the product, providing a comprehensive overview of its capabilities.
 
-- **Deactivation URL:** Provide the API endpoint for deactivating the product’s Tenants.
+9. **Plan’s Features:** Maps specific features to subscription plans, ensuring clarity on what each plan offers.
 
-- **Deletion URL:** The API endpoint to delete the product's tenant .
+10. **Plans Prices:** Displays the pricing structure for each subscription plan, helping in transparent pricing communication.
 
-Understanding this information allows you to have insights into the product's configuration and its capabilities as a Software as a Service (SaaS) solution. You can use these details to make informed decisions about managing and optimizing your SaaS offerings.
+11. **Subscriptions:** Manages active subscriptions, including subscription status, renewal options, and billing information.
 
-### Subscriptions Tab
+12. **Warnings:** Displays any warnings or alerts related to the product, helping in proactive issue resolution.
 
-In the Subscriptions tab, you can access a list of all subscriptions associated with the selected product. This section provides detailed information about each subscription, allowing you to manage them effectively. Here are the additional details for the subscription data you provided:
+### Product Details
 
-- **Title:** The title represents the identifier for each subscription associated with the product. It helps differentiate between different subscription instances.
+For each product, you can view comprehensive details, including:
 
-- **Unique Name:** The unique name corresponds to the unique identifier for each subscription. It is useful for backend systems and databases to distinguish between various subscriptions.
+- **Display Name:** The user-friendly name associated with the product.
+- **System Name:** The unique identifier for the product used in system integrations.
+- **Client:** The client or organization associated with the product.
+- **Description:** A brief overview of the product's purpose and features.
+- **API Key:** The key used for secure API access.
+- **Default Health Check URL:** The endpoint for monitoring the product's health.
+- **Health Status Change URL:** The endpoint for updating the product's health status.
+- **Subscription Reset URL:** The endpoint for resetting subscription attributes.
+- **Subscription Upgrade URL:** The endpoint for upgrading subscription plans.
+- **Subscription Downgrade URL:** The endpoint for downgrading subscription plans.
+- **Creation URL:** The endpoint for creating new product instances.
+- **Activation URL:** The endpoint for activating the product.
+- **Deactivation URL:** The endpoint for deactivating the product.
+- **Deletion URL:** The endpoint for deleting the product.
 
-- **Health Check URL is Overridden:** This field indicates whether the health check URL for the subscription is overridden or not. When the health check URL is overridden, it means that a custom health check URL is being used for this specific subscription.
+### Managing Product Details
 
-- **Status:** The status of each subscription provides information about its current state. The possible statuses and their meanings are as follows:
+#### Create Product
 
-  - **Create request is sent:** The subscription is in the process of being created, and a request for creation has been sent.
+To add a new digital product to RoSaaS and initiate its transformation into a fully functional Software as a Service (SaaS) solution, follow these steps:
 
-  - **Creating:** The subscription is currently being created.
+1. **Navigate to the "Create Product" Form:** From the main dashboard, click on the plus button and select “Add Product” from the dropdown menu. Alternatively, use the button on the Products page to navigate to the form.
+2. **Fill in Product Details:** Provide the necessary information for the new product, including Display Name, Description, API Key, and relevant URLs.
+3. **Submit the Product Details:** Click the "Submit" button to create the new product. Upon successful submission, the product will be listed among the existing products.
 
-  - **Created As Active:** The subscription was successfully created and is now active and in use.
+#### Edit Product
 
-  - **Deactivate request is sent:** A deactivation request has been initiated for this subscription.
+To update an existing product's details, follow these steps:
 
-  - **Deactivating:** The subscription is currently being deactivated.
+1. **Locate the Product:** From the Products page, locate the product you want to edit.
+2. **Access Product Actions:** Click on the "..." button in the "Actions" column for the selected product.
+3. **Select "Edit":** Choose "Edit" from the dropdown menu to access the "Edit Product" form.
+4. **Modify Product Details:** Update the necessary information and click "Submit" to save the changes.
 
-  - **Deactivate:** The subscription has been successfully deactivated.
+#### Delete Product
 
-- **Created Date:** This field indicates the date and time when each subscription was created. It helps track the subscription's inception and understand the timeline of subscription management.
+To remove a product from RoSaaS, follow these steps:
 
-By effectively utilizing these actions and exploring the product details, you can efficiently manage your digital products within RoSaaS, access comprehensive insights, and handle subscriptions seamlessly. This level of control empowers you to optimize the performance and subscription offerings of your SaaS products.
+1. **Locate the Product:** From the Products page, locate the product you want to delete.
+2. **Access Product Actions:** Click on the "..." button in the "Actions" column for the selected product.
+3. **Select "Delete":** Choose "Delete" from the dropdown menu and confirm the deletion.
 
-Congratulations! You now have a clear understanding of how to explore and manage your product details and subscriptions within RoSaaS.
+By effectively utilizing these functionalities, you can efficiently manage your digital products, access detailed information about each product, and optimize your SaaS offerings. For more detailed instructions on each feature, refer to the respective documentation pages.

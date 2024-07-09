@@ -10,6 +10,6 @@ menu:
   docs:
     parent: "Admin Panel"
     identifier: "tenant-5a62cb7ade1d99ba5489952e7f82b7c5"
-weight: 202
+weight: 41
 toc: true
 ---
